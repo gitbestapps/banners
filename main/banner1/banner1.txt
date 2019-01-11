@@ -1,1 +1,1 @@
-https://github.com/gitbestapps/banners/new/master
+com.vkontakte.android
