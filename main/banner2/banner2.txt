@@ -1,1 +1,1 @@
-https://github.com/gitbestapps/banners.git
+com.whatsapp
